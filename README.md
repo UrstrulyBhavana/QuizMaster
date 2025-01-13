@@ -34,3 +34,8 @@ HTML5: For structuring the content of the application.
 CSS3: For styling and responsive design.
 
 JavaScript: For implementing the quiz logic and interactivity.
+
+
+
+![2025-01-1319-18-21-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4c9fa5f1-cbdc-4de7-bddf-adbc0bbc5d03)
+
