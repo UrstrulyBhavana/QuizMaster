@@ -37,5 +37,5 @@ JavaScript: For implementing the quiz logic and interactivity.
 
 
 
-![2025-01-1319-18-21-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4c9fa5f1-cbdc-4de7-bddf-adbc0bbc5d03)
+![QuizMaster-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/98b800ad-55ca-40ff-8f4c-413e17e95838)
 
