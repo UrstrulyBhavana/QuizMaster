@@ -1,6 +1,6 @@
 # QuizMaster-App
 
-## QuizMaster is a simple and interactive quiz application built using HTML, CSS, and JavaScript. It allows users to test their knowledge by answering multiple-choice questions and receive immediate feedback. This project is perfect for beginners looking to practice core web development concepts and create dynamic web applications.
+QuizMaster is a simple and interactive quiz application built using HTML, CSS, and JavaScript. It allows users to test their knowledge by answering multiple-choice questions and receive immediate feedback. This project is perfect for beginners looking to practice core web development concepts and create dynamic web applications.
 
 ## Features:-
 
@@ -18,7 +18,7 @@ Responsive Design:- The app is designed to look good on both desktop and mobile 
 
 Hover Effects:- Interactive buttons provide visual feedback on hover.
 
-  ###  Importance of the Project
+  ## Importance of the Project
   
  Learning Experience:- This project is a great way for beginners to understand and practice, DOM manipulation using JavaScript & Event handling to create interactivity.
 
